@@ -13,14 +13,14 @@ desafio-stone
 │   yarn.lock
 |
 └───src
-│   │   index.ts
+│   │   index.ts (arquivo principal com a solução)
 │   │
-│   └───data
+│   └───data (dados para teste)
 │   |   └───emailsData
-|   |   |    |     emailsData.ts
+|   |   |    |     emailsData.ts (arquivo com variações de listas de emails)
 |   |   |   
 │   |   └───data
-|   |        |     itemsData.ts
+|   |        |     itemsData.ts (arquivo com variações da lista de objetos de compra)
 │   |
 |   └───__tests__
 |            | index.test.ts
